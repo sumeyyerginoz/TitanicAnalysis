@@ -20,5 +20,5 @@ Our analysis shows that factors such as passenger class, age, and gender had a s
 
 This project provides valuable insights into the factors that contributed to the survival of passengers on the Titanic. By using exploratory data analysis and machine learning techniques, we were able to identify important predictors of survival. This information can be used to better understand historical events and to inform decision-making in similar situations.
 
-<br><br><br><br>
+<br>The Random Forest algorithm has been identified as the best-performing algorithm among KNN, Naive Bayes, and Random Forest algorithms. The success rate was calculated as 85.04%.<br><br>
 The Titanic dataset used in this project is from Kaggle. 
